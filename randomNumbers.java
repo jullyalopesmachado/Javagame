@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class randomNumbers {
+public class Kevinsdicegame1 {
 
 	public static int Game () {
 
